@@ -1,5 +1,10 @@
 # GrowingMinds
 
+Growing Minds works to improve outcomes for autistic children through early identification, quality interventions, caregiver support, community awareness, and strengthened referral systems that enable every child to thrive.
+
+
+## Contribute to the Project
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies

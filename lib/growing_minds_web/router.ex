@@ -18,6 +18,8 @@ defmodule GrowingMindsWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
+    get "/about", PageController, :about
+    get "/donate", PageController, :donate
   end
 
   # Other scopes may use custom stacks.
